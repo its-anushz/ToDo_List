@@ -4,10 +4,10 @@ A simple ToDo List application written in Python.
 
 ## Features
 
-* Add, edit, and delete tasks
-* Mark tasks as complete
-* Filter tasks by status
-* Sort tasks by due date
+1. Add a task
+2. View tasks
+3. Mark a task as done
+4. Quit
 
 ## Getting Started
 
@@ -20,8 +20,9 @@ pip install -r requirements.txt
 
  To-do list-checkpoint.ipynb
 
-## Usage
-To add a task, enter the task name and due date. To edit a task, select the task and enter the new information. To delete a task, select the task and press the delete key. To mark a task as complete, select the task and press the spacebar.
+## Credits
+This peoject is created by Anushree K C
+ REFERENCE: ChatGPT AI
 
 ## License
 This project is licensed under the MIT License.
