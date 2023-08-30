@@ -1,28 +1,19 @@
 # To-Do List
+This project is a simple to-do list application written in Python.
 
-A simple ToDo List application written in Python.
+## Project Description
+This project is a to-do list application that allows users to add, remove, and mark items as complete. The application is written in Python.
 
-## Features
+## How to Use the Project
+To use the project, you will need to have Python installed on your computer. Once you have Python installed, you can clone the repository to your computer. Once you have cloned the repository, you can run the .ipynb script to start the application.
 
-1. Add a task
-2. View tasks
-3. Mark a task as done
-4. Quit
+## Project Files
+The project contains the following files:
 
-## Getting Started
-
-1. Clone the repository to your local machine.
-2. Install the dependencies:
-
-pip install -r requirements.txt
-
-3. Run the application:
-
- To-do list-checkpoint.ipynb
-
+README.md - This file provides a description of the project.
+To-do List-checkpoint.ipynb - This notebook contains the code for the project.
 ## Credits
-This peoject is created by Anushree K C
- REFERENCE: ChatGPT AI
+This project was created by Anushree K C.
 
 ## License
 This project is licensed under the MIT License.
